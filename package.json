@@ -7,7 +7,7 @@
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "berke.js",
   "scripts": {
-    "start": "node berke.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1",
